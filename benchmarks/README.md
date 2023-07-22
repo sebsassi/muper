@@ -1,0 +1,1 @@
+The benchmarks here compare the performance of this package to the performance of `multipermute.h` found in the [multipermute](https://github.com/ekg/multipermute) package. The file `multipermute.h` included here has been slightly modified from the original to allow for 1-to-1 comparison.
